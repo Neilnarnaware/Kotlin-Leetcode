@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0001-two-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
+## Binary Search
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+## Sorting
+|  |
+| ------- |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 <!---LeetCode Topics End-->
