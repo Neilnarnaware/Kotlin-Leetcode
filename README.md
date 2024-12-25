@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0001-two-sum) |
+| [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
