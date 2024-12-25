@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0001-two-sum) |
+| [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
+## String
+|  |
+| ------- |
+| [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
 <!---LeetCode Topics End-->
