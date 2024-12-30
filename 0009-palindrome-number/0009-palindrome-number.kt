@@ -3,6 +3,12 @@ class Solution {
         /*
             reverse string == string
          */
-        return (x.toString() == x.toString().reversed())
+        val straight = x.toString()
+        var reverse = ""
+
+        for(i in straight.length-1 downTo 0){
+            reverse += straight[i]
+        }
+        return (straight == reverse)
     }
 }
