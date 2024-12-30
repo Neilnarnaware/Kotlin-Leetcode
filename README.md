@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
