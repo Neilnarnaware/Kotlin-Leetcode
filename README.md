@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0014-longest-common-prefix) |
 | [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
 ## Binary Search
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
