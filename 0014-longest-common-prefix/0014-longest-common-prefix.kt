@@ -1,14 +1,9 @@
 class Solution {
     fun longestCommonPrefix(strs: Array<String>): String {
-        
         /*
-        flow smallest.
-        flow in flower, flight  
-        flo in flower, flight
-        fl in flower, flight
-        break
+            smallest in array
+            compare -> if found return else reduce
         */
-
         if(strs.size == 1) return strs[0]
         
         var min = 999
@@ -28,7 +23,6 @@ class Solution {
                 break
                 }
         }
-
         return output
     }
 }
