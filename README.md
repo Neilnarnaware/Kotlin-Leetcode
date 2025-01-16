@@ -8,6 +8,7 @@
 | [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3330-modify-the-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/3330-modify-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0898-transpose-matrix) |
+| [3330-modify-the-matrix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/3330-modify-the-matrix) |
 ## Simulation
 |  |
 | ------- |
