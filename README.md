@@ -13,11 +13,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0013-roman-to-integer) |
 | [1217-relative-sort-array](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1217-relative-sort-array) |
 | [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0014-longest-common-prefix) |
 | [1619-path-crossing](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/1619-path-crossing) |
 ## Binary Search
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Neilnarnaware/Kotlin-Leetcode/tree/master/0013-roman-to-integer) |
 ## Trie
 |  |
 | ------- |
